@@ -1,0 +1,16 @@
+key parent Adventure_brushes~!TemplatepalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_planner~!RedGrox_city_objects_icon01.png
+	editors_planner~!RedGrox_city_objects_icon02.png
+	editors_planner~!RedGrox_city_objects_icon03.png
+	editors_planner~!RedGrox_city_objects_icon01.png
+	editors_planner~!RedGrox_city_objects_icon04.png
+	editors_planner~!RedGrox_city_objects_icon02.png
+	editors_planner~!RedGrox_city_objects_icon04.png
+	editors_planner~!RedGrox_city_objects_icon05.png
+	editors_planner~!RedGrox_city_objects_icon06.png
+end
+texts paletteCategoryName
+	(RedGrox_city_objects_names!0x027DB5CD) "Red Grox Decorations"
+end
+uint32 paletteCategorySequenceNumber 652

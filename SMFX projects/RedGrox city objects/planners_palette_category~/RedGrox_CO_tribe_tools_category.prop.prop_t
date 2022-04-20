@@ -1,0 +1,17 @@
+key parent Adventure_brushes~!TemplatepalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_planner~!0xAE2DA079.png
+	editors_planner~!0x1B52BD2A.png
+	editors_planner~!0x96B0C5EF.png
+	editors_planner~!0xAE2DA079.png
+	editors_planner~!0x7E54752B.png
+	editors_planner~!0x1B52BD2A.png
+	editors_planner~!0xF2AFE9D5.png
+	editors_planner~!0xECFE7793.png
+	editors_planner~!0xAEB8EAFA.png
+end
+key paletteCategoryLayoutFile 0xB0E2D930
+texts paletteCategoryName
+	(ta!0x04d961f4) "All Tools"
+end
+uint32 paletteCategorySequenceNumber 653

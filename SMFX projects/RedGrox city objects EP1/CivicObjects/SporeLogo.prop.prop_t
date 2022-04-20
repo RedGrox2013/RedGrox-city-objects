@@ -1,0 +1,10 @@
+key parent CivicObjects!EP1_StaticObjectTemplate.prop
+floats modelLODDistances
+	150
+	400
+	2000
+end
+key modelMeshLOD0 ci_SporeLogo.rw4
+key modelMeshLOD1 ci_SporeLogo.rw4
+key modelMeshLOD2 ci_SporeLogo.rw4
+float modelScale 5

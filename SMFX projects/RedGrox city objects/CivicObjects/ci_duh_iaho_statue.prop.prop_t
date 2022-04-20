@@ -1,0 +1,11 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x9D509FAE) "ci_duh_iaho_statue"
+end
+keys modelMainAbilityList
+	RedGrox_CO_iaho_statue
+end
+key modelMeshLOD0 ci_duh_iaho_statue.rw4
+key modelMeshLOD1 ci_duh_iaho_statue.rw4
+key modelMeshLOD2 ci_duh_iaho_statue.rw4
+float modelScale 5

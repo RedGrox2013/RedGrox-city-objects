@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 ci_Glad_Valakas.rw4
+key paletteItemPlacedAsset definitions~!Glad_Valakas.cInteractiveOrnament
+texts sporepediaName
+	(RedGrox_city_objects_names!0x4492D7AE) "GLAD VALAKAS"
+end
+bool sporepediaShow true

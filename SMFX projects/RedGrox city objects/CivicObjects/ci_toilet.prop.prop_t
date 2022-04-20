@@ -1,0 +1,15 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0xD0B4DA3E) "Rural Toilet"
+end
+keys modelMainAbilityList
+	RedGrox_CO_toilet
+end
+keys modelEffect
+	0xf3c00fb0
+end
+key modelMeshLOD0 ci_toilet.rw4
+key modelMeshLOD1 ci_toilet.rw4
+key modelMeshLOD2 ci_toilet.rw4
+float modelScale 0.65
+# "Rural Toilet" (https://skfb.ly/6QYJ9) by shedmon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

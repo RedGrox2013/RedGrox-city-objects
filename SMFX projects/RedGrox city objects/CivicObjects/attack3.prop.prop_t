@@ -1,0 +1,22 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b02) "Throwing Spears"
+end
+keys modelMainAbilityList
+	tribe_hunt3
+end
+float modelBoundingRadius 4.2950001
+keys modelEffect
+	0x2B124332
+	0x050B305A
+	0x977185D8
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (2.2, 1.4, 2.5) -scale 1.55 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 toolattack3!tt_hunt_home_03.rw4
+key modelMeshLOD1 toolattack3!tt_hunt_home_03.rw4
+key modelMeshLOD2 toolattack3!tt_hunt_home_03.rw4
+float modelScale 1.6
+uint32 modelSound hash(sfx_trg_hut_sign_lp)

@@ -1,0 +1,23 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b00) "Spiked Clubs"
+end
+keys modelMainAbilityList
+	tribe_hunt1
+end
+float modelBoundingRadius 4.0999999
+keys modelEffect
+	0x2B124330
+	0x050B305A
+	0x050B305A
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (2.5799999, -1.72, 2.28) -scale 1.35 -rotateXYZ 0 -0 0
+	-offset (2.4000001, 1.86, 2.1900001) -scale 1.35 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 toolattack1!tt_hunt_home_01.rw4
+key modelMeshLOD1 toolattack1!tt_hunt_home_01_LOD1.rw4
+key modelMeshLOD2 toolattack1!tt_hunt_home_01_LOD2.rw4
+float modelScale 1.6
+uint32 modelSound hash(sfx_trg_hut_sign_lp)

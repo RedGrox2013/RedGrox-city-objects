@@ -1,0 +1,8 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(0x07301439!0x66202424) "Masaari statue"
+end
+key modelMeshLOD0 ci_masaari_statue.rw4
+key modelMeshLOD1 ci_masaari_statue.rw4
+key modelMeshLOD2 ci_masaari_statue.rw4
+float modelScale 0.6

@@ -1,0 +1,22 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b05) "Healing Rods"
+end
+keys modelMainAbilityList
+	tribe_shaman_staff
+end
+float modelBoundingRadius 4.6589999
+keys modelEffect
+	0xAE47569C
+	0xDD07B1E8
+end
+float modelEffectRange 120
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (0, 0, 0.1) -scale 1.45 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 toolheal2!tt_heal_home_02.rw4
+key modelMeshLOD1 toolheal2!tt_heal_home_02.rw4
+key modelMeshLOD2 toolheal2!tt_heal_home_02.rw4
+vector3 modelOffset (0, 0, 0.05)
+float modelScale 1.45

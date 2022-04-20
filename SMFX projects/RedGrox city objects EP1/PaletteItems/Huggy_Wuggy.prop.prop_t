@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 ci_Huggy_Wuggy.rw4
+key paletteItemPlacedAsset definitions~!Huggy_Wuggy.cInteractiveOrnament
+texts sporepediaName
+	(RedGrox_city_objects_names!0x6c1b7521) "Huggy Wuggy"
+end
+bool sporepediaShow true

@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 ci_duh_iaho_statue.rw4
+key paletteItemPlacedAsset definitions~!Duh_iaho_statue.cInteractiveOrnament
+texts sporepediaName
+	(RedGrox_city_objects_names!0x9D509FAE) "ci_duh_iaho_statue"
+end
+bool sporepediaShow true

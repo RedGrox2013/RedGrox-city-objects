@@ -1,0 +1,12 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x7A18A92B) "ci_Khrush"
+end
+keys modelMainAbilityList
+	RedGrox_CO_Khrush
+end
+key modelMeshLOD0 ci_Khrush.rw4
+key modelMeshLOD1 ci_Khrush.rw4
+key modelMeshLOD2 ci_Khrush.rw4
+float modelScale 1
+# "Хрущевка линейная" (https://skfb.ly/6vMwo) by heu3becteh is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

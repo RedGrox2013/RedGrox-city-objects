@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 ci_SporeLogo.rw4
+key paletteItemPlacedAsset definitions~!SporeLogo.cInteractiveOrnament
+texts sporepediaName
+	(RedGrox_city_objects_names!0xB46A4D7E) "Spore Logo"
+end
+bool sporepediaShow true

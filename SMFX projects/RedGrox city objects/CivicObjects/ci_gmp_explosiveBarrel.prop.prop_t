@@ -1,0 +1,8 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(0x47103B46!0xa0ebd95a) "ep1_gmp_explosivebarrel.prop (NOT LOCALIZED)"
+end
+key modelMeshLOD0 ep1_adventuremodels~!0xED5F0767.rw4
+key modelMeshLOD1 ep1_adventuremodels~!0xED5F0767.rw4
+key modelMeshLOD2 ep1_adventuremodels~!0xED5F0767.rw4
+float modelScale 0.5

@@ -1,0 +1,9 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(0x07301439!0xeb5e6082) "EP1_flr_Psepostoa.prop (NOT LOCALIZED)"
+end
+key modelMeshLOD0 floraModels_LOD1~!0x07730CE0.gmdl
+key modelMeshLOD1 floraModels_LOD1~!0x07730CE0.gmdl
+key modelMeshLOD2 floraModels_LOD2~!0x07730CE0.gmdl
+key modelMeshLOD3 floraModels_LOD3~!0x07730CE0.gmdl
+float modelScale 1

@@ -1,0 +1,21 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b04) "Fruit Sticks"
+end
+keys modelMainAbilityList
+	tribe_gather3
+end
+float modelBoundingRadius 4.8390002
+keys modelEffect
+	0x14D11F34
+	0x050B305A
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (2.25, -1.4299999, 2.5) -scale 1.6 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 toolgather3!tt_gather_home_03.rw4
+key modelMeshLOD1 toolgather3!tt_gather_home_03.rw4
+key modelMeshLOD2 toolgather3!tt_gather_home_03.rw4
+float modelScale 1.75
+uint32 modelSound hash(sfx_trg_hut_windmill_lp)

@@ -1,0 +1,11 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0xB46A4D7E) "Spore Logo"
+end
+keys modelMainAbilityList
+	RedGrox_CO_spore_logo
+end
+key modelMeshLOD0 ci_SporeLogo.rw4
+key modelMeshLOD1 ci_SporeLogo.rw4
+key modelMeshLOD2 ci_SporeLogo.rw4
+float modelScale 5

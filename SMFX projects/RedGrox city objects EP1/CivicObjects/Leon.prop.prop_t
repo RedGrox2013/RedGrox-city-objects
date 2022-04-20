@@ -1,0 +1,11 @@
+key parent CivicObjects!EP1_StaticObjectTemplate.prop
+floats modelLODDistances
+	150
+	400
+	2000
+end
+key modelMeshHull ci_Leon.rw4
+key modelMeshLOD0 ci_Leon.rw4
+key modelMeshLOD1 ci_Leon.rw4
+key modelMeshLOD2 ci_Leon.rw4
+float modelScale 1

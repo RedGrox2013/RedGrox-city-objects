@@ -1,0 +1,9 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x36460FE9) "Willosaur statue"
+end
+key modelMeshLOD0 ci_willosaur_statue.rw4
+key modelMeshLOD1 ci_willosaur_statue.rw4
+key modelMeshLOD2 ci_willosaur_statue.rw4
+float modelScale 0.25
+# http://www.spore.com/sporepedia#qry=advasrch-%u0421%u0442%u0430%u0442%u0443%u044F%20%u0443%u0438%u043B%u043B%u043E%u0437%u0430%u0432%u0440%u0430%3Afi-name%2Cauthor%2Ctags%2Cdescription%3Afu-CREATURE%2CTRIBE_CREATURE%2CCIV_CREATURE%2CSPACE_CREATURE%2CADVENTURE_CREATURE%2CCITY_HALL%2CHOUSE%2CINDUSTRY%2CENTERTAINMENT%2CUFO%2CADV_ATTACK%2CADV_COLLECT%2CADV_DEFEND%2CADV_EXPLORE%2CADV_UNSET%2CADV_PUZZLE%2CADV_QUEST%2CADV_SOCIALIZE%2CADV_STORY%2CADV_TEMPLATE%3Am-LAND%2CAIR%2CWATER%3Ap-MILITARY%2CECONOMIC%2CCULTURAL%2CCOLONY%3Afl-NONE

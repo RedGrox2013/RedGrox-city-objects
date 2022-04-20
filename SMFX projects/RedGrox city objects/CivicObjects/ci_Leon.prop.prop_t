@@ -1,0 +1,11 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x133252C2) "Leon"
+end
+keys modelMainAbilityList
+	RedGrox_CO_Leon
+end
+key modelMeshLOD0 ci_Leon.rw4
+key modelMeshLOD1 ci_Leon.rw4
+key modelMeshLOD2 ci_Leon.rw4
+float modelScale 0.75

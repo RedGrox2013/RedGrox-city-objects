@@ -1,0 +1,12 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0xD0ADADD2) "Freddy Fazbear"
+end
+keys modelMainAbilityList
+	RedGrox_CO_mshk_frede
+end
+key modelMeshLOD0 ci_mshk_frede.rw4
+key modelMeshLOD1 ci_mshk_frede.rw4
+key modelMeshLOD2 ci_mshk_frede.rw4
+float modelScale 4.5
+# "FNaF AR: Special Delivery - Freddy Fazbear" (https://skfb.ly/o7FAV) by Priorities is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

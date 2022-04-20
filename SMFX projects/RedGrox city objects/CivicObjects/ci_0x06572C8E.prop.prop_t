@@ -1,0 +1,8 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0xE5E9BD8A) "ci_0x06572C8E"
+end
+key modelMeshLOD0 0x06572C8E.rw4
+key modelMeshLOD1 0x06572C8E.rw4
+key modelMeshLOD2 0x06572C8E.rw4
+float modelScale 1.75

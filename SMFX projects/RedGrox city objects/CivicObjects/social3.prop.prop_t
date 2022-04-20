@@ -1,0 +1,23 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b08) "Aerophones"
+end
+keys modelMainAbilityList
+	tribe_socialdidgeridoo
+end
+bboxs modelBoundingBox
+	(-0.92286, -2.1245079, -0.125666) (2.5511479, 2.0205541, 2.777353)
+end
+float modelBoundingRadius 4.3284621
+keys modelEffect
+	0x510140C3
+	0x050B305A
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (2.45, 1.6799999, 2) -scale 1.35 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 ToolDidgeridoo!tt_Didgeridoo_home.rw4
+key modelMeshLOD1 ToolDidgeridoo!tt_Didgeridoo_home.rw4
+key modelMeshLOD2 ToolDidgeridoo!tt_Didgeridoo_home.rw4
+float modelScale 1.35

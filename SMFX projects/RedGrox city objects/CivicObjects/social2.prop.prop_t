@@ -1,0 +1,23 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b07) "Maracas"
+end
+keys modelMainAbilityList
+	tribe_socialmaraca
+end
+bboxs modelBoundingBox
+	(-1.057514, -1.633034, -0.072096) (2.017936, 2.927382, 3.056586)
+end
+float modelBoundingRadius 4.6887469
+keys modelEffect
+	0xA5A78430
+	0x050B305A
+end
+transforms modelEffectTransforms
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+	-offset (2.8, -1.83, 1.95) -scale 1.3 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 ToolMaraca!tt_Maraca_home.rw4
+key modelMeshLOD1 ToolMaraca!tt_Maraca_home.rw4
+key modelMeshLOD2 ToolMaraca!tt_Maraca_home.rw4
+float modelScale 1.35

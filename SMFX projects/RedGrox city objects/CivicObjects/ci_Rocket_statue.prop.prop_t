@@ -1,0 +1,11 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x5C7352D3) "Rocket statue"
+end
+keys modelMainAbilityList
+	RedGrox_CO_rocket
+end
+key modelMeshLOD0 ci_Rocket_statue.rw4
+key modelMeshLOD1 ci_Rocket_statue.rw4
+key modelMeshLOD2 ci_Rocket_statue.rw4
+float modelScale 1

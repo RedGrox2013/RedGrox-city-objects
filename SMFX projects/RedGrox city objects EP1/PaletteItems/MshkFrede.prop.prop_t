@@ -1,0 +1,7 @@
+key parent PaletteItems!0x5C5C0759.prop
+key modelMeshLOD0 ci_mshk_frede.rw4 # "FNaF AR: Special Delivery - Freddy Fazbear" (https://skfb.ly/o7FAV) by Priorities is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+key paletteItemPlacedAsset definitions~!MshkFrede.cInteractiveOrnament
+texts sporepediaName
+	(RedGrox_city_objects_names!0xD0ADADD2) "Freddy Fazbear"
+end
+bool sporepediaShow true

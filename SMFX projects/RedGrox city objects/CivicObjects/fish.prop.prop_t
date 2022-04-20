@@ -1,0 +1,22 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(ta!0x05b08b03) "Fishing Spears"
+end
+keys modelMainAbilityList
+	tribe_fish1
+end
+float modelBoundingRadius 3.8
+keys modelEffect
+	0x75A8A74F
+	0xFB8BDEFF
+end
+float modelEffectRange 70
+transforms modelEffectTransforms
+	-offset (2, 0, 3) -scale 1.5 -rotateXYZ 0 -0 0
+	-offset (0, 0, 0) -scale 1 -rotateXYZ 0 -0 0
+end
+key modelMeshLOD0 toolfish1!tt_fish_home_01.rw4
+key modelMeshLOD1 toolfish1!tt_fish_home_01.rw4
+key modelMeshLOD2 toolfish1!tt_fish_home_01.rw4
+float modelScale 1.7
+uint32 modelSound hash(sfx_trg_hut_flag_lp)

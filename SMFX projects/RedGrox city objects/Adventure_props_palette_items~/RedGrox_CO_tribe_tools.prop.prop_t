@@ -1,0 +1,34 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+end
+keys palettePagePartItems
+	CivicObjects!fish.prop
+	CivicObjects!gather.prop
+	CivicObjects!heal.prop
+	CivicObjects!social1.prop
+	CivicObjects!social2.prop
+	CivicObjects!social3.prop
+	CivicObjects!attack2.prop
+	CivicObjects!attack1.prop
+	CivicObjects!attack3.prop
+end
+key palettePagePartParentPage RedGrox_CO_tribe_tools_page

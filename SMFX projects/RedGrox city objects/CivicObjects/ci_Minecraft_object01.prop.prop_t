@@ -1,0 +1,11 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x5DC53ADC) "ci_Minecraft_object01"
+end
+keys modelMainAbilityList
+	RedGrox_CO_Khrush
+end
+key modelMeshLOD0 ci_Minecraft_object01.rw4
+key modelMeshLOD1 ci_Minecraft_object01.rw4
+key modelMeshLOD2 ci_Minecraft_object01.rw4
+float modelScale 1

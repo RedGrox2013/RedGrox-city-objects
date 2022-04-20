@@ -1,0 +1,9 @@
+texts creatureAbilityDescription
+	(RedGrox_city_objects_descriptions!0xB46A4D7E) "(PLACEHOLDER)"
+end
+texts creatureAbilityName
+	(Abilities!0x533dd075) "+Happiness (PLACEHOLDER)"
+end
+keys creatureAbilityReqAnyParts
+	0xE370755B
+end

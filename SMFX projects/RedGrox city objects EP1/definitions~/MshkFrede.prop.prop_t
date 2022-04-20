@@ -1,0 +1,9 @@
+key parent definitions~!0x04051EB4.prop
+texts interactableObjectName
+	"MshkFrede"
+end
+int32 interactiveOrnamentType 7
+uint32 materialType 11
+string8 nounDefinition_ResourceDescription "MshkFrede"
+key nounDefinition_ResourceKey CivicObjects!MshkFrede.prop
+# "FNaF AR: Special Delivery - Freddy Fazbear" (https://skfb.ly/o7FAV) by Priorities is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,13 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x4492D7AE) "GLAD VALAKAS"
+end
+keys modelMainAbilityList
+	RedGrox_CO_Glad_Valakas_statue
+end
+key modelMeshLOD0 ci_Glad_Valakas.rw4
+key modelMeshLOD1 ci_Glad_Valakas.rw4
+key modelMeshLOD2 ci_Glad_Valakas.rw4
+float modelScale 0.75
+# "GLAD VALAKAS" (https://skfb.ly/6USnD) by kroshreal is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+# Statue template - http://www.spore.com/sporepedia#qry=sast-500348266018

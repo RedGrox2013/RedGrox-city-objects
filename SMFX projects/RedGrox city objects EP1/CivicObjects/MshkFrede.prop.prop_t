@@ -1,0 +1,11 @@
+key parent CivicObjects!EP1_StaticObjectTemplate.prop
+floats modelLODDistances
+	150
+	400
+	2000
+end
+key modelMeshHull ci_mshk_frede.rw4 # "FNaF AR: Special Delivery - Freddy Fazbear" (https://skfb.ly/o7FAV) by Priorities is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+key modelMeshLOD0 ci_mshk_frede.rw4
+key modelMeshLOD1 ci_mshk_frede.rw4
+key modelMeshLOD2 ci_mshk_frede.rw4
+float modelScale 5

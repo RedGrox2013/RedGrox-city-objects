@@ -1,0 +1,8 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(0x47103B46!0xef06808b) "ep1_ci_water_boatbottle.prop (NOT LOCALIZED)"
+end
+key modelMeshLOD0 ci_water_boatBottle.rw4
+key modelMeshLOD1 ci_water_boatBottle.rw4
+key modelMeshLOD2 ci_water_boatBottle.rw4
+float modelScale 0.75

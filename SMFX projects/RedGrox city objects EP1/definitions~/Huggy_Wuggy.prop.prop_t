@@ -1,0 +1,8 @@
+key parent definitions~!0x04051EB4.prop
+texts interactableObjectName
+	"Huggy_Wuggy"
+end
+int32 interactiveOrnamentType 7
+uint32 materialType 11
+string8 nounDefinition_ResourceDescription "Huggy_Wuggy"
+key nounDefinition_ResourceKey CivicObjects!Huggy_Wuggy.prop

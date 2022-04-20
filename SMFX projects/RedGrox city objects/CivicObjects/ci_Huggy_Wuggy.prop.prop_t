@@ -1,0 +1,8 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+texts blockName
+	(RedGrox_city_objects_names!0x6c1b7521) "Huggy Wuggy"
+end
+key modelMeshLOD0 ci_Huggy_Wuggy.rw4
+key modelMeshLOD1 ci_Huggy_Wuggy.rw4
+key modelMeshLOD2 ci_Huggy_Wuggy.rw4
+float modelScale 5
